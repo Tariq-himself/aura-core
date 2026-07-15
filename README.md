@@ -20,7 +20,8 @@ Aura Core provides the secure, centralized data layer for the Aura Workspace HR 
 | Language | PHP 8.2+ |
 | Database | PostgreSQL |
 | API Auth | Laravel Sanctum |
-| Admin Auth | Laravel Breeze |
+| Admin Auth | Laravel Breeze API scaffolding |
+| Local Database | SQLite (PostgreSQL for production) |
 | Deployment | VPS with Laravel Forge (Saudi region preferred) |
 
 ---
